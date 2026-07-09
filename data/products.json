@@ -1,0 +1,242 @@
+[
+  {
+    "id": "p001",
+    "slug": "aeira-noir-de-velours",
+    "name": "Noir de Velours",
+    "category": "Eau de Parfum",
+    "gender": "Unisex",
+    "family": "Amber Woody",
+    "price": 8900,
+    "compareAtPrice": 10500,
+    "size": "50ml",
+    "rating": 4.9,
+    "reviewCount": 128,
+    "bestseller": true,
+    "new": false,
+    "shortDescription": "A velvet-dark amber wrapped in smoked oud and black vanilla.",
+    "inspiredBy": "For those drawn to Tom Ford Oud Wood and Maison Francis Kurkdjian Baccarat Rouge 540.",
+    "story": "Noir de Velours opens the AEIRA house — a fragrance built around a single memory of a candlelit room at midnight, its air thick with resin and warm skin. It is not loud. It lingers, the way certain memories do.",
+    "notes": {
+      "top": ["Black Pepper", "Bergamot", "Saffron"],
+      "middle": ["Smoked Oud", "Bulgarian Rose", "Leather"],
+      "base": ["Black Vanilla", "Amber", "Sandalwood"]
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1594035910387-fea47794261f?q=80&w=1400&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1615634260167-c8cdede054de?q=80&w=1400&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?q=80&w=1400&auto=format&fit=crop"
+    ],
+    "longevity": "10-12 hours",
+    "sillage": "Heavy"
+  },
+  {
+    "id": "p002",
+    "slug": "aeira-lumiere-blanche",
+    "name": "Lumière Blanche",
+    "category": "Eau de Parfum",
+    "gender": "Feminine",
+    "family": "White Floral",
+    "price": 7900,
+    "compareAtPrice": null,
+    "size": "50ml",
+    "rating": 4.8,
+    "reviewCount": 96,
+    "bestseller": true,
+    "new": false,
+    "shortDescription": "Sunlit jasmine and iris over a bed of soft musk and white cedar.",
+    "inspiredBy": "For fans of Chanel Chance Eau Tendre and Dior J'adore.",
+    "story": "Lumière Blanche captures the exact minute sunlight breaks through linen curtains — clean, bright, and quietly luxurious.",
+    "notes": {
+      "top": ["Pear Nectar", "Pink Pepper", "Mandarin"],
+      "middle": ["Jasmine Sambac", "Iris", "Peony"],
+      "base": ["White Musk", "Cedarwood", "Ambroxan"]
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1541643600914-78b084683601?q=80&w=1400&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1523293182086-7651a899d37f?q=80&w=1400&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1587017539504-67cfbddac569?q=80&w=1400&auto=format&fit=crop"
+    ],
+    "longevity": "8-10 hours",
+    "sillage": "Moderate"
+  },
+  {
+    "id": "p003",
+    "slug": "aeira-santal-royal",
+    "name": "Santal Royal",
+    "category": "Parfum",
+    "gender": "Masculine",
+    "family": "Woody Spice",
+    "price": 9500,
+    "compareAtPrice": 11000,
+    "size": "50ml",
+    "rating": 4.9,
+    "reviewCount": 74,
+    "bestseller": false,
+    "new": true,
+    "shortDescription": "Creamy Mysore sandalwood, cardamom, and a whisper of tobacco leaf.",
+    "inspiredBy": "For admirers of Creed Aventus and Le Labo Santal 33.",
+    "story": "Santal Royal is carved rather than composed — layer upon layer of sandalwood polished until it glows like old furniture in low light.",
+    "notes": {
+      "top": ["Cardamom", "Bergamot", "Nutmeg"],
+      "middle": ["Sandalwood", "Violet", "Tobacco Leaf"],
+      "base": ["Cashmeran", "Vanilla", "Musk"]
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1598452963314-b09f397a5c48?q=80&w=1400&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1615399593109-c07f334b6353?q=80&w=1400&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1610461888750-10bfc601b874?q=80&w=1400&auto=format&fit=crop"
+    ],
+    "longevity": "10+ hours",
+    "sillage": "Heavy"
+  },
+  {
+    "id": "p004",
+    "slug": "aeira-rose-cendree",
+    "name": "Rose Cendrée",
+    "category": "Eau de Parfum",
+    "gender": "Feminine",
+    "family": "Floral Woody",
+    "price": 8200,
+    "compareAtPrice": null,
+    "size": "50ml",
+    "rating": 4.7,
+    "reviewCount": 61,
+    "bestseller": false,
+    "new": true,
+    "shortDescription": "Bruised rose petals folded into smoked patchouli and dark chocolate.",
+    "inspiredBy": "For those who love Byredo Rose of No Man's Land with a darker edge.",
+    "story": "Rose Cendrée takes the classic rose and lets it burn slightly at the edges — sweetness turned smoky, softness turned severe.",
+    "notes": {
+      "top": ["Raspberry", "Rose Petals", "Cinnamon"],
+      "middle": ["Turkish Rose", "Patchouli", "Geranium"],
+      "base": ["Dark Chocolate Accord", "Oakmoss", "Musk"]
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1615397587950-e0b02f7e5b23?q=80&w=1400&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1580870069867-74c57ee1bb07?q=80&w=1400&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1616949755610-8f9c1ec9a3f7?q=80&w=1400&auto=format&fit=crop"
+    ],
+    "longevity": "8-9 hours",
+    "sillage": "Moderate"
+  },
+  {
+    "id": "p005",
+    "slug": "aeira-ambre-1959",
+    "name": "Ambre 1959",
+    "category": "Parfum",
+    "gender": "Unisex",
+    "family": "Oriental Amber",
+    "price": 10200,
+    "compareAtPrice": null,
+    "size": "50ml",
+    "rating": 5.0,
+    "reviewCount": 43,
+    "bestseller": true,
+    "new": false,
+    "shortDescription": "Our founding accord — resinous amber, honey, and warm skin musk.",
+    "inspiredBy": "A tribute scent, for lovers of Guerlain Shalimar and MFK Grand Soir.",
+    "story": "Named for the year our founder's grandmother first mixed oils by hand, Ambre 1959 is the fragrance the entire AEIRA house is built around.",
+    "notes": {
+      "top": ["Bergamot", "Honey", "Orange Blossom"],
+      "middle": ["Labdanum", "Benzoin", "Praline"],
+      "base": ["Amber", "Skin Musk", "Tonka Bean"]
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1522337660859-02fbefca4702?q=80&w=1400&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1587304955907-be9296b7cf01?q=80&w=1400&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1608528577891-eb055944f2e7?q=80&w=1400&auto=format&fit=crop"
+    ],
+    "longevity": "12+ hours",
+    "sillage": "Heavy"
+  },
+  {
+    "id": "p006",
+    "slug": "aeira-vetiver-brume",
+    "name": "Vétiver Brume",
+    "category": "Eau de Parfum",
+    "gender": "Masculine",
+    "family": "Green Woody",
+    "price": 7500,
+    "compareAtPrice": 8600,
+    "size": "50ml",
+    "rating": 4.6,
+    "reviewCount": 39,
+    "bestseller": false,
+    "new": false,
+    "shortDescription": "Cool grey vetiver rising through morning mist and citrus.",
+    "inspiredBy": "For fans of Guerlain Vetiver and Chanel Bleu de Chanel.",
+    "story": "Vétiver Brume is early morning, before the city wakes — damp earth, citrus dew, and the calm of grey light.",
+    "notes": {
+      "top": ["Grapefruit", "Sea Salt", "Petitgrain"],
+      "middle": ["Vetiver", "Elemi", "Lavender"],
+      "base": ["Ambroxan", "Cedar", "Musk"]
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1547887538-e3a2f32cb1cc?q=80&w=1400&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1615634376658-c80301e9a007?q=80&w=1400&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600612253971-422e7f7faeb6?q=80&w=1400&auto=format&fit=crop"
+    ],
+    "longevity": "7-8 hours",
+    "sillage": "Light-Moderate"
+  },
+  {
+    "id": "p007",
+    "slug": "aeira-fleur-doree",
+    "name": "Fleur Dorée",
+    "category": "Eau de Parfum",
+    "gender": "Feminine",
+    "family": "Gourmand Floral",
+    "price": 8500,
+    "compareAtPrice": null,
+    "size": "50ml",
+    "rating": 4.8,
+    "reviewCount": 55,
+    "bestseller": false,
+    "new": true,
+    "shortDescription": "Gilded tuberose and vanilla caramel, worn like a second skin.",
+    "inspiredBy": "For those who love Carolina Herrera Good Girl and Prada Candy.",
+    "story": "Fleur Dorée is the fragrance equivalent of gold leaf on a dessert — indulgent, a little theatrical, entirely unforgettable.",
+    "notes": {
+      "top": ["Almond Milk", "Bergamot", "Blood Orange"],
+      "middle": ["Tuberose", "Orange Blossom", "Jasmine"],
+      "base": ["Caramel", "Vanilla", "Sandalwood"]
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1615397349754-cfa2066a298e?q=80&w=1400&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1587017539504-67cfbddac569?q=80&w=1400&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1541643600914-78b084683601?q=80&w=1400&auto=format&fit=crop"
+    ],
+    "longevity": "9-10 hours",
+    "sillage": "Moderate-Heavy"
+  },
+  {
+    "id": "p008",
+    "slug": "aeira-cuir-noble",
+    "name": "Cuir Noble",
+    "category": "Parfum",
+    "gender": "Masculine",
+    "family": "Leather Spice",
+    "price": 9900,
+    "compareAtPrice": null,
+    "size": "50ml",
+    "rating": 4.9,
+    "reviewCount": 31,
+    "bestseller": false,
+    "new": true,
+    "shortDescription": "Supple leather, dark rum, and a curl of pipe tobacco smoke.",
+    "inspiredBy": "For those who love Tom Ford Tuscan Leather and YSL La Nuit de L'Homme.",
+    "story": "Cuir Noble is modeled on the inside of an old library — leather-bound spines, aged spirits, and quiet authority.",
+    "notes": {
+      "top": ["Saffron", "Rum Accord", "Bergamot"],
+      "middle": ["Leather", "Tobacco Flower", "Cinnamon"],
+      "base": ["Suede", "Amberwood", "Vanilla"]
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1610461888750-10bfc601b874?q=80&w=1400&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1598452963314-b09f397a5c48?q=80&w=1400&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1615399593109-c07f334b6353?q=80&w=1400&auto=format&fit=crop"
+    ],
+    "longevity": "10-12 hours",
+    "sillage": "Heavy"
+  }
+]

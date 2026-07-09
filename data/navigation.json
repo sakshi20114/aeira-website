@@ -1,0 +1,33 @@
+{
+  "main": [
+    { "label": "Home", "href": "/" },
+    { "label": "Shop", "href": "/shop" },
+    { "label": "About", "href": "/about" },
+    { "label": "Contact", "href": "/contact" }
+  ],
+  "footerShop": [
+    { "label": "All Fragrances", "href": "/shop" },
+    { "label": "Bestsellers", "href": "/shop?filter=bestseller" },
+    { "label": "New Arrivals", "href": "/shop?filter=new" },
+    { "label": "For Him", "href": "/shop?gender=Masculine" },
+    { "label": "For Her", "href": "/shop?gender=Feminine" }
+  ],
+  "footerCompany": [
+    { "label": "Our Story", "href": "/about" },
+    { "label": "Contact Us", "href": "/contact" },
+    { "label": "Wishlist", "href": "/wishlist" },
+    { "label": "Cart", "href": "/cart" }
+  ],
+  "footerLegal": [
+    { "label": "Privacy Policy", "href": "/privacy-policy" },
+    { "label": "Terms & Conditions", "href": "/terms" },
+    { "label": "Shipping Policy", "href": "/shipping-policy" },
+    { "label": "Refund Policy", "href": "/refund-policy" }
+  ],
+  "social": {
+    "instagram": "https://www.instagram.com/the_perfumechemistry/",
+    "whatsapp": "https://wa.me/919441590033",
+    "googleReview": "https://g.page/r/CZFL3PTYHtZNEAE/review",
+    "email": "aeiraofficial1959@gmail.com"
+  }
+}

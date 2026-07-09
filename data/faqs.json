@@ -1,0 +1,38 @@
+{
+  "general": [
+    {
+      "q": "Are AEIRA fragrances original compositions?",
+      "a": "Yes. Every AEIRA fragrance is formulated in-house by our perfumers using premium aromatic ingredients. Some are composed as our interpretation of well-loved luxury profiles, but each is its own distinct blend — never a direct copy."
+    },
+    {
+      "q": "What concentration are your fragrances?",
+      "a": "Most AEIRA fragrances are Eau de Parfum (18-22% oil concentration), with select releases as Parfum (22-30%) for maximum longevity and depth."
+    },
+    {
+      "q": "How long does shipping take?",
+      "a": "Orders within India are dispatched within 24-48 hours and typically arrive in 3-5 business days. You'll receive tracking details by email and WhatsApp as soon as your order ships."
+    },
+    {
+      "q": "Do you offer samples or discovery sets?",
+      "a": "Yes, we offer a curated discovery set of 2ml vials so you can experience our collection before committing to a full bottle. Message us on WhatsApp to add one to your order."
+    },
+    {
+      "q": "Are your products cruelty-free?",
+      "a": "All AEIRA fragrances are cruelty-free and never tested on animals. We work only with certified ethical fragrance houses."
+    }
+  ],
+  "contact": [
+    {
+      "q": "What are your business hours?",
+      "a": "Our team is available Monday to Saturday, 10:00 AM to 7:00 PM IST. We respond to WhatsApp messages and emails within a few hours during business days."
+    },
+    {
+      "q": "Can I visit an AEIRA store?",
+      "a": "AEIRA currently operates as an online-first boutique. For private consultations or bulk/corporate gifting enquiries, please reach out via WhatsApp to arrange an appointment."
+    },
+    {
+      "q": "How do I track my order?",
+      "a": "Once your order ships, you'll receive a tracking link via email and WhatsApp. You can also reach out to our support team anytime for a live update."
+    }
+  ]
+}

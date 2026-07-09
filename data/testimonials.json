@@ -1,0 +1,50 @@
+[
+  {
+    "id": "t1",
+    "name": "Ananya R.",
+    "location": "Hyderabad",
+    "rating": 5,
+    "product": "Noir de Velours",
+    "quote": "The projection is unreal for the price point. I get stopped at least twice whenever I wear this. It feels like a fragrance three times its cost."
+  },
+  {
+    "id": "t2",
+    "name": "Kabir S.",
+    "location": "Mumbai",
+    "rating": 5,
+    "product": "Santal Royal",
+    "quote": "Sandalwood is my signature note and AEIRA nailed it — creamy, warm, and it lasts all day at the office without being overpowering."
+  },
+  {
+    "id": "t3",
+    "name": "Meera T.",
+    "location": "Bengaluru",
+    "rating": 5,
+    "product": "Ambre 1959",
+    "quote": "The packaging alone feels like a Chanel unboxing. The scent is even better — deep, honeyed amber that stays close all evening."
+  },
+  {
+    "id": "t4",
+    "name": "Rohan K.",
+    "location": "Delhi",
+    "rating": 4,
+    "product": "Vétiver Brume",
+    "quote": "Clean, cool, and effortlessly classy. My go-to for meetings. Wish the bottle was slightly bigger, but the quality justifies it."
+  },
+  {
+    "id": "t5",
+    "name": "Priya N.",
+    "location": "Chennai",
+    "rating": 5,
+    "product": "Lumière Blanche",
+    "quote": "Soft, luminous, and so elegant on skin. Compliments every single time I wear it. AEIRA has genuinely impressed me."
+  },
+  {
+    "id": "t6",
+    "name": "Arjun V.",
+    "location": "Pune",
+    "rating": 5,
+    "product": "Cuir Noble",
+    "quote": "This is the most 'expensive-smelling' fragrance I own. The leather and tobacco combination is rich without being heavy."
+  }
+]
