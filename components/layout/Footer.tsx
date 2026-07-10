@@ -1,5 +1,6 @@
 import Link from "next/link";
-import { Instagram, MessageCircle, Mail } from "lucide-react";
+import { Instagram, Mail } from "lucide-react";
+import { FaWhatsapp } from "react-icons/fa";
 import navigation from "@/data/navigation.json";
 
 export default function Footer() {
@@ -33,7 +34,7 @@ export default function Footer() {
                 aria-label="WhatsApp"
                 className="w-10 h-10 rounded-full border border-gold/25 flex items-center justify-center text-gold hover:bg-gold hover:text-ink transition-colors duration-300"
               >
-                <MessageCircle size={16} />
+                <FaWhatsapp size={16} />
               </a>
               <a
                 href={`mailto:${navigation.social.email}`}

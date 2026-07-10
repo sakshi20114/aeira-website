@@ -1,8 +1,10 @@
 "use client";
 
 import { useEffect, useState } from "react";
+
 import { motion, AnimatePresence } from "framer-motion";
-import { MessageCircle, Star, ArrowUp } from "lucide-react";
+import { Star, ArrowUp } from "lucide-react";
+import { FaWhatsapp } from "react-icons/fa";
 import navigation from "@/data/navigation.json";
 
 export default function FloatingButtons() {
@@ -56,7 +58,7 @@ export default function FloatingButtons() {
         aria-label="Chat on WhatsApp"
         className="w-14 h-14 rounded-full bg-[#25D366] flex items-center justify-center text-white shadow-[0_0_25px_rgba(37,211,102,0.35)]"
       >
-        <MessageCircle size={24} fill="white" />
+        <FaWhatsapp size={24} />
       </motion.a>
     </div>
   );

@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Image from "next/image";
-import { Mail, MessageCircle, Instagram, Clock, MapPin } from "lucide-react";
+import { Mail, Instagram, Clock, MapPin } from "lucide-react";
+import { FaWhatsapp } from "react-icons/fa";
 import SplitText from "@/components/ui/SplitText";
 import SectionHeading from "@/components/ui/SectionHeading";
 import ContactForm from "@/components/contact/ContactForm";
@@ -60,7 +61,7 @@ export default function ContactPage() {
               href={`mailto:${navigation.social.email}`}
             />
             <InfoCard
-              icon={MessageCircle}
+              icon={FaWhatsapp}
               title="WhatsApp"
               value="+91 94415 90033"
               href={navigation.social.whatsapp}

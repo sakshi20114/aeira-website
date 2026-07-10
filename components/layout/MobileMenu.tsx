@@ -2,7 +2,8 @@
 
 import Link from "next/link";
 import { motion, AnimatePresence } from "framer-motion";
-import { X, Instagram, MessageCircle } from "lucide-react";
+import { X, Instagram } from "lucide-react";
+import { FaWhatsapp } from "react-icons/fa";
 import navigation from "@/data/navigation.json";
 
 export default function MobileMenu({
@@ -92,7 +93,7 @@ export default function MobileMenu({
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full border border-gold/30 flex items-center justify-center text-gold"
               >
-                <MessageCircle size={16} />
+               <FaWhatsapp size={16} />
               </a>
             </div>
             <span className="text-xs text-smoke tracking-widest">
