@@ -49,7 +49,7 @@ export default function ContactPage() {
               description="Have a question about a scent, an order, or a bulk gifting enquiry? Fill out the form and our team will respond within a few hours."
             />
             <div className="mt-10">
-              <ContactForm />
+              <ContactForm /> 
             </div>
           </div>
 

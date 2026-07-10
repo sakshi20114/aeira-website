@@ -93,7 +93,7 @@ export default function MobileMenu({
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full border border-gold/30 flex items-center justify-center text-gold"
               >
-               <FaWhatsapp size={16} />
+               <FaWhatsapp size={16} /> 
               </a>
             </div>
             <span className="text-xs text-smoke tracking-widest">
